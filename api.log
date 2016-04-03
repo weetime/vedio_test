@@ -1,0 +1,42 @@
+This is access return,Array
+This is upload return,Array
+This is access return,array (
+  'access_token' => 'kwyoNy45gZTyNJ_4og54k_oZNeegZmTBpakBJyBN4wmJoBoZgp4NJJooo4op4_gmmpp5gNoJggBZN',
+  'expires_in' => 86400,
+  'uid' => 857799989,
+)
+This is upload return,array (
+  'itemCode' => 'hpao7hGMHVU',
+  'token' => '182146434_251681315_3440360592',
+  'uploadUrl' => 'http://bj4.b28.upload.tudou.com/?token=182146434_251681315_3440360592&appKey=af27d258c0792934&sn=1459763274082',
+)
+This is access return,array (
+  'access_token' => 'aay5aB5w5ZoB_Bog5wBeN5Bg4Bga_ZmypakBJyBN4wmJoBoZgpZJ5Z4_BZop4_gmmpp5gNoJNo5Nm',
+  'expires_in' => 86400,
+  'uid' => 371386239,
+)
+This is upload return,array (
+  'itemCode' => 'IAtzm7jZBX8',
+  'token' => '182146595_251681476_3436995351',
+  'uploadUrl' => 'http://bj1.b28.upload.tudou.com/?token=182146595_251681476_3436995351&appKey=af27d258c0792934&sn=1459763495461',
+)
+This is access return,array (
+  'access_token' => 'aay5aB5w5ZoB_Bog5wBeN5Bg4Bga_ZmypakBJyBN4wmJoBoZgpZJ5Z4_BZop4_gmmpp5gNoJNo5Nm',
+  'expires_in' => 86400,
+  'uid' => 371386239,
+)
+This is upload return,array (
+  'itemCode' => '9XVaya2FZeI',
+  'token' => '182146655_251681537_3916107187',
+  'uploadUrl' => 'http://bj4.b28.upload.tudou.com/?token=182146655_251681537_3916107187&appKey=af27d258c0792934&sn=1459763564645',
+)
+This is access return,array (
+  'access_token' => 'aay5aB5w5ZoB_Bog5wBeN5Bg4Bga_ZmypakBJyBN4wmJoBoZgpZJ5Z4_BZop4_gmmpp5gNoJNo5Nm',
+  'expires_in' => 86400,
+  'uid' => 371386239,
+)
+This is upload return,array (
+  'itemCode' => 'JuT_051g8j8',
+  'token' => '182146663_251681545_1651416959',
+  'uploadUrl' => 'http://bj3.b28.upload.tudou.com/?token=182146663_251681545_1651416959&appKey=af27d258c0792934&sn=1459763572946',
+)
